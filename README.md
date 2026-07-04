@@ -9,7 +9,7 @@ When you are building alone and need to find a market, price it, launch it, and 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/solo-founder-stack](https://skillme.dev/pack/solo-founder-stack) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/solo-founder-stack`
+- **With the skills CLI:** `npx skills add SkillMedev/solo-founder-stack`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
