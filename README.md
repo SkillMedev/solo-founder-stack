@@ -2,7 +2,7 @@
 
 **For solo founders: go from idea to first paying customers without a team.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-When you are building alone and need to find a market, price it, launch it, and close the first customers yourself. Use this when you have a product idea or early MVP and your next milestone is revenue — it sizes the opportunity, pins down pricing, sequences the launch, and writes the landing page and cold outreach that convert.
+When you are building alone and need to find a market, price it, launch it, and close the first customers yourself. Use this when you have a product idea or early MVP and your next milestone is revenue. These aren't tip lists — each skill is an operating procedure with real numbers: a TAM/SAM/SOM model you can defend under diligence, a runnable unit-economics calculator (CAC, LTV, payback), pricing with a test plan, battlecard and landing-page templates, and cold email with the sub-90-word discipline that gets replies.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,13 +14,13 @@ When you are building alone and need to find a market, price it, launch it, and 
 
 ## Skills in this pack
 
-- **[Market Sizing](skills/market-sizing/SKILL.md)** — Builds defensible TAM/SAM/SOM models with bottom-up and top-down triangulation.
-- **[Competitive Intelligence](skills/competitive-intelligence/SKILL.md)** — Competitor mapping across product, pricing, and positioning.
-- **[Pricing Strategy](skills/pricing-strategy/SKILL.md)** — Value-based, competitive, and cost-plus pricing analysis with a defensible recommendation.
-- **[Unit Economics](skills/unit-economics/SKILL.md)** — Calculates and optimizes CAC, LTV, payback, and contribution margin.
-- **[Go-To-Market Planner](skills/go-to-market-planner/SKILL.md)** — Launch sequencing, channel selection, and a messaging hierarchy tied to a clear ICP.
-- **[Landing Page Copy](skills/landing-page-copy/SKILL.md)** — Conversion-focused hero, feature, and social-proof copy structured around one core promise.
-- **[Cold Email Craft](skills/cold-email-craft/SKILL.md)** — B2B cold outreach that gets replies: tight personalization, brevity, and a low-friction ask.
+- **[Market Sizing](skills/market-sizing/SKILL.md)** — Builds a defensible TAM/SAM/SOM market-sizing model with bottom-up and top-down triangulation and a low/base/high sensitivity range.
+- **[Competitive Intelligence](skills/competitive-intelligence/SKILL.md)** — Map competitors across positioning, product, pricing, proof, and weaknesses, then turn the research into sales-ready battlecards with an update cadence.
+- **[Pricing Strategy](skills/pricing-strategy/SKILL.md)** — Set or revise pricing for any product by triangulating value, competition, and cost floor into a recommended structure, price points, and a test plan.
+- **[Unit Economics](skills/unit-economics/SKILL.md)** — Compute CAC, contribution margin, LTV, LTV:CAC, and payback with honest definitions, a runnable calculator, and a verdict on whether each customer makes money.
+- **[Go-To-Market Planner](skills/go-to-market-planner/SKILL.md)** — Build a sequenced go-to-market plan — beachhead ICP, positioning, one or two channels, and dated milestones — instead of a scattershot launch.
+- **[Landing Page Copy](skills/landing-page-copy/SKILL.md)** — Write landing-page copy section by section — hero, social proof, features-as-benefits, objections, CTA — leading with one promise and proving it down the page.
+- **[Cold Email Craft](skills/cold-email-craft/SKILL.md)** — Write short, personalized B2B cold emails and follow-up copy — under 90 words, one ask, personalization in the first line — with good/bad contrast pairs to calibrate.
 
 ## License
 
