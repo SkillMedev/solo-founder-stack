@@ -1,16 +1,17 @@
 # Solo Founder Stack
 
-**For solo founders: go from idea to first paying customers without a team.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For solo founders: go from idea to first paying customers without a team.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-solo-founder-stack).
 
 When you are building alone and need to find a market, price it, launch it, and close the first customers yourself. Use this when you have a product idea or early MVP and your next milestone is revenue. These aren't tip lists - each skill is an operating procedure with real numbers: a TAM/SAM/SOM model you can defend under diligence, a runnable unit-economics calculator (CAC, LTV, payback), pricing with a test plan, battlecard and landing-page templates, and cold email with the sub-90-word discipline that gets replies.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/solo-founder-stack](https://skillme.dev/pack/solo-founder-stack) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/solo-founder-stack?utm_source=github&utm_medium=readme&utm_campaign=pack-solo-founder-stack) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add market-sizing competitive-intelligence pricing-strategy unit-economics go-to-market-planner landing-page-copy cold-email-craft --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/solo-founder-stack`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ When you are building alone and need to find a market, price it, launch it, and 
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-solo-founder-stack).
